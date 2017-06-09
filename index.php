@@ -137,7 +137,7 @@
 
 <?php
 	get_total();
-	require_once 'php/check_com.php';
+	require_once 'check_com.php';
 ?>
 <div class="tog">
 <a href="#" id="menu-toggle"> <img src="../img/bullets-black.png" width="30px" height="30px"></a>
